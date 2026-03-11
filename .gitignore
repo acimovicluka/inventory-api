@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Environment variables (lozinke - NIKAD na GitHub!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
